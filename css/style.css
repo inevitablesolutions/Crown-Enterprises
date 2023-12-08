@@ -893,7 +893,9 @@ a:focus {
 }
 
 .info_section {
-  background-color: #0f1521;
+  background-color: #000;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
   color: #ffffff;
 }
 
