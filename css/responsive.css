@@ -75,6 +75,7 @@
 
   .slider_section .img-container {
     justify-content: center;
+    margin-top: -150px;
   }
 
   .slider_section .play_btn {
