@@ -180,6 +180,15 @@
   .contact_section .map_container {
     padding: 0;
   }
+
+
+
+
+  /* ---------------------------- */
+  .btn-box {
+    position: relative;
+    z-index: 10;
+  }
 }
 
 @media (max-width: 576px) {
