@@ -530,8 +530,11 @@ a:focus {
 }
 
 .trending_section .tab_container .t-link-box {
-  margin: 65px 0;
+  margin: 40px 0;
   color: #ffbe00;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -556,8 +559,8 @@ a:focus {
 }
 
 .trending_section .tab_container .t-link-box[aria-expanded="true"] {
-  background-color: white;
-  padding: 10px;
+  background-color: black;
+  padding: 15px 10px;
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -1087,3 +1090,9 @@ a:focus {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+.contactBtn {
+  background: #000;
+}
